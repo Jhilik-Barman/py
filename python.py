@@ -22,7 +22,7 @@ elif average >= 50:
 else:
     grade = "F"
 
-print("\n===== Result =====")
+print("===== Result =====")
 print("Student Name:", name)
 print("Math:", math)
 print("English:", english)
@@ -35,3 +35,5 @@ if grade == "F":
     print("Result: Fail ❌")
 else:
     print("Result: Pass ✅")
+
+    
